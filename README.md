@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar Maruf Mutaqin</h1>
-<h3 align="center">CODING IS NOT FUN</h3>
+<h3 align="center" style="border:4px solid red; padding:15px;">CODING IS NOT FUN</h3>
 
-<img align="right" alt="coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg" style="border:4px solid red; padding:15px;">
+<img align="right" alt="coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=0e75b6&style=flat" alt="umarmaruf04" /> </p>
 
