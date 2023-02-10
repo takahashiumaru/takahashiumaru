@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar Maruf Mutaqin</h1>
 <h3 align="center" style="background-color:powderblue;">CODING IS NOT FUN</h3>
 
-<img align="right" alt="coding" width="350" src="[https://postimg.cc/jny9fNJB](https://i.postimg.cc/MHL8hmZZ/coding-1.png)">
+<img align="right" alt="coding" width="350" src="https://i.postimg.cc/jny9fNJB/coding-1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=0e75b6&style=flat" alt="umarmaruf04" /> </p>
 
