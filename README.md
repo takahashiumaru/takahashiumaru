@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=0e75b6&style=flat" alt="umarmaruf04" /> </p>
 
-- 📝 I regularly write articles on [https://linktr.ee/umarmarufm](https://linktr.ee/umarmarufm)
-
 - 📫 How to reach me **umarmarufmutaqin@gmail.com**
 
 - 📄 Know about my experiences [https://linktr.ee/umarmarufm](https://linktr.ee/umarmarufm)
 
-- ⚡ Fun fact **Nothing**
+- ⚡ Fun fact **Nothing xixixi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
