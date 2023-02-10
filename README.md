@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarmaruf04&show_icons=true&locale=en" alt="umarmaruf04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarmaruf04&" alt="umarmaruf04" /></p>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/93416227?v=4" alt="umarmaruf04" /></p>
