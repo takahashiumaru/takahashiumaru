@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=0e75b6&style=flat" alt="umarmaruf04" /> </p>
 
+Saya adalah seorang Junior Programmer pengembang perangkat lunak yang berdomisili di Indonesia. Web Developer dan Mobile Developer
+
 - 📫 How to reach me **umarmarufmutaqin@gmail.com**
 
 - 📄 Know about my experiences [https://linktr.ee/umarmarufm](https://linktr.ee/umarmarufm)
