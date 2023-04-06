@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=0e75b6&style=flat" alt="umarmaruf04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=brightgreen&style=flat" alt="umarmaruf04" /> </p>
 
-I am a Junior Programmer software developer domiciled in Indonesia. Web Developers and Mobile Developers
+I am a Junior Programmer software developer domiciled in Indonesia. Web Developers and Mobile Developers 0e75b6
 
 - 📫 How to reach me **umarmarufmutaqin@gmail.com**
 
