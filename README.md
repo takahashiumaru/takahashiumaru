@@ -12,7 +12,7 @@ I am a Junior Programmer software developer domiciled in Indonesia. Web Develope
 - 📄 Know about my experiences [https://linktr.ee/umarmarufm](https://linktr.ee/umarmarufm)
 
 - ⚡ Fun fact **Nothing xixixi**
-
+![Tutorial Go](https://www.youtube.com/watch?v=XTACjMu0EwI)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/takahashi.umaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takahashi.umaru" height="30" width="40" /></a>
