@@ -3,8 +3,9 @@
 
 <img align="right" alt="coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/746/042/original/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg">
 
-https://img.shields.io/visual-studio-marketplace/d/UmarMarufMutaqin.go-snippets-simple?logo=visualstudio
-https://img.shields.io/visual-studio-marketplace/i/UmarMarufMutaqin.go-snippets-simple?logo=visualstudio
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/UmarMarufMutaqin.go-snippets-simple?logo=visualstudio)](https://marketplace.visualstudio.com/items?itemName=UmarMarufMutaqin.go-snippets-simple)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/UmarMarufMutaqin.go-snippets-simple?logo=visualstudio)](https://marketplace.visualstudio.com/items?itemName=UmarMarufMutaqin.go-snippets-simple)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/UmarMarufMutaqin.go-snippets-simple?logo=visualstudio)](https://marketplace.visualstudio.com/items?itemName=UmarMarufMutaqin.go-snippets-simple)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarmaruf04&label=Profile%20views&color=brightgreen&style=flat" alt="umarmaruf04" /> </p>
 
