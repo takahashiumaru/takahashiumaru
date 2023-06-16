@@ -9,8 +9,6 @@ I am a Junior Programmer software developer domiciled in Indonesia. Web Develope
 
 - 📫 How to reach me **umarmarufmutaqin@gmail.com**
 
-![screenshot](https://github.com/takahashiumaru/go-snippets/blob/main/image.png)
-
 - 📄 Know about my experiences [https://linktr.ee/umarmarufm](https://linktr.ee/umarmarufm)
 
 - ⚡ Fun fact **Nothing xixixi**
